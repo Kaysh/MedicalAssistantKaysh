@@ -1,3 +1,3 @@
 # MedicalAssistantKaysh
 
-https://medical-assistant.azurewebsites.net
+https://medical-assistant.azurewebsites.net/index.aspx
